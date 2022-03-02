@@ -1,4 +1,3 @@
-User Data:
 #!/bin/bash -ex
 
 # Update yum
